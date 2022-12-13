@@ -58,6 +58,7 @@ header .container::after{
     content: '';
     position: absolute;
     height: 10px;
+    background-color: ;
 }
 
 /* End Header */
