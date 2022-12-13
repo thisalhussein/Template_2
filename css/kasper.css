@@ -80,6 +80,7 @@ header nav{
 }
 header nav .toggle-menu{
     color: white;
+    font-size: ;
 }
 header nav ul{
     display: flex;
