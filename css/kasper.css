@@ -54,5 +54,8 @@ header .container{
     align-items: center;
     position: relative;
 }
+header .container::after{
+    
+}
 
 /* End Header */
