@@ -54,6 +54,7 @@ ul {
 header{
     position: absolute;
     left: 0;
+    width: ;
 }
 header .container{
     display: flex;
