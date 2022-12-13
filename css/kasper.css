@@ -1,5 +1,6 @@
 /* Start Global Rules */
 * {
+    -webkit-box-sizing: ;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
