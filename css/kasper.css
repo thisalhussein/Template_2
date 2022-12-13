@@ -89,4 +89,7 @@ header nav ul li a {
     transition: 0.3s;
     padding: 40px 10px;
 }
+header nav ul li a.active{
+    
+}
 /* End Header */
