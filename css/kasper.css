@@ -53,7 +53,7 @@ ul {
 
 header{
     position: absolute;
-    left: ;
+    left: 0;
 }
 header .container{
     display: flex;
