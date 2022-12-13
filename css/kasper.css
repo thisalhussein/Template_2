@@ -37,6 +37,8 @@ ul {
 }
 /* Large */
 @media (min-width: 1200px){
-    .container
+    .container{
+        width: 1170px;
+    }
 }
 /* End Global Rules */
