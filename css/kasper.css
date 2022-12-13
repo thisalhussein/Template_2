@@ -50,7 +50,7 @@ header{
 }
 header .container{
     display: flex;
-    justify-content: ;
+    justify-content: space-around;
 }
 
 /* End Header */
