@@ -50,6 +50,7 @@ header{
 }
 header .container{
     display: flex;
+    justify-content: ;
 }
 
 /* End Header */
