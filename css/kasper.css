@@ -36,5 +36,5 @@ ul {
     }
 }
 /* Large */
-@media
+@media (min-width: 1200px)
 /* End Global Rules */
