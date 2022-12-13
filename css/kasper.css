@@ -51,7 +51,7 @@ header{
 header .container{
     display: flex;
     justify-content: space-between;
-    align-items: ;
+    align-items: center;
 }
 
 /* End Header */
