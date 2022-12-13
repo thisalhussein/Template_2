@@ -78,5 +78,6 @@ header nav ul{
 header nav ul li a {
     display: block;
     color: white;
+    text-decoration: none;
 }
 /* End Header */
