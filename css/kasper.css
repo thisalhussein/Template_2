@@ -57,6 +57,7 @@ header .container{
 header .container::after{
     content: '';
     position: absolute;
+    height: ;
 }
 
 /* End Header */
