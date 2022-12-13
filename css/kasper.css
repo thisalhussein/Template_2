@@ -90,6 +90,7 @@ header nav .toggle-menu{
 header nav ul{
     display: flex;
 }
+@media
 header nav ul li a {
     display: block;
     color: white;
