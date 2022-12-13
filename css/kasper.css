@@ -55,7 +55,7 @@ header .container{
     position: relative;
 }
 header .container::after{
-    
+    content: '';
 }
 
 /* End Header */
