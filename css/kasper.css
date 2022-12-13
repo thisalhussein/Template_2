@@ -61,11 +61,11 @@ header .container{
     position: relative;
 }
 header .container::after{
-    content: '';
+    content: "";
     position: absolute;
     height: 1px;
     background-color: #a2a2a2;
-    bottom: -1;
+    bottom: 0;
     width: calc(100% - 30px);
     left: 15px;
 }
@@ -93,5 +93,6 @@ header nav ul li a.active,
 header nav ul li a:hover {
     color: var(--main-color);
     border-bottom: 1px solid var(--main-color);
+    
 }
 /* End Header */
