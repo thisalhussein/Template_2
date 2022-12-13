@@ -95,6 +95,9 @@ header nav ul li a:hover {
     border-bottom: 1px solid var(--main-color);
     position: relative;
     z-index: 2;
+
+}
+header nav .form {
     
 }
 /* End Header */
