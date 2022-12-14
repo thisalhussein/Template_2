@@ -344,6 +344,9 @@ header nav .form i {
 .design .image {
     text-align: center;
 }
+@media (max-width: 767px) {
+    
+}
 .design .image img {
     position: relative;
     bottom: -150px;
