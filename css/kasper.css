@@ -147,7 +147,7 @@ header nav .form i {
 /* Start Landing */
 .landing{
     min-height: 100vh;
-    background-color: ;
+    background-color: #1f2021;
     background-image: url(../image/landing.jpg) ;
     background-size: cover;
 }
