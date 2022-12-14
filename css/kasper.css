@@ -326,6 +326,6 @@ header nav .form i {
     text-align: center;
 }
 .design::before {
-    
+    content: "";
 }
 /* End Design */
