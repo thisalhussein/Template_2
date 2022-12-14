@@ -57,6 +57,7 @@ ul {
 .main-heading h2 {
     font-weight: normal;
     font-size: 40px;
+    position: ;
 }
 .main-heading h2::before{
     content: "";
