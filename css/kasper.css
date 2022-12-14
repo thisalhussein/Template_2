@@ -354,12 +354,12 @@ header nav .form i {
     background-color: var(--transparent-color);
 }
 .design .text h2 {
-
+    font-weight: normal;
 }
 .design .text ul li {
 
 }
 .design .text ul li::before {
-    
+
 }
 /* End Design */
