@@ -75,6 +75,7 @@ ul {
     content: "";
     position: absolute;
     left: 50%;
+    transform: ;
 }
 .main-heading p {
 
