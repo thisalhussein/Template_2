@@ -57,6 +57,9 @@ ul {
 .main-heading h2 {
 
 }
+.main-heading h2::before{
+    
+}
 .main-heading p {
 
 }
