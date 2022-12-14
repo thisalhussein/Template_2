@@ -324,6 +324,7 @@ header nav .form i {
     background-size: cover;
     display: flex;
     text-align: center;
+    overflow: hidden;
 }
 .design::before {
     content: "";
