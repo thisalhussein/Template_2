@@ -323,6 +323,7 @@ header nav .form i {
     background-image: url(../image/design.jpeg);
     background-size: cover;
     display: flex;
+    text-align: center;
 
 }
 /* End Design */
