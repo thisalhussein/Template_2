@@ -345,7 +345,9 @@ header nav .form i {
     text-align: center;
 }
 @media (max-width: 767px) {
-    
+    .design .image {
+        
+    }
 }
 .design .image img {
     position: relative;
