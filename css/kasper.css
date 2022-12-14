@@ -320,6 +320,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
+    background-image: url(../image/design.jpeg);
 
 }
 /* End Design */
