@@ -208,7 +208,7 @@ header nav .form i {
 .landing .bullets li {
     width: 20px;
     height: 20px;
-    border: ;
+    border: 1px solid white;
 }
 .landing .bullets li.active {
 
