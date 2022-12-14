@@ -345,5 +345,6 @@ header nav .form i {
 }
 .design .image img {
     position: relative;
+    bottom: -150px;
 }
 /* End Design */
