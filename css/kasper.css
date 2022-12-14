@@ -67,7 +67,7 @@ ul {
     left: 50%;
     transform: translateX(-50%);
     height: 2px;
-    background-color: ;
+    background-color: #333;
 }
 .main-heading h2::after{
     content: "";
