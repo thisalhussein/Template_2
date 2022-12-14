@@ -181,6 +181,9 @@ header nav .form i {
     .landing .text {
         width: 100%;
     }
+    .landing .text .content {
+        
+    }
 }
 .landing .text .content h2 {
     font-size: 32px;
