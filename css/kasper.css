@@ -58,10 +58,10 @@ ul {
 
 }
 .main-heading h2::before{
-    content: '';
+    content: "";
 }
 .main-heading h2::after{
-
+    content: "";
 }
 .main-heading p {
 
