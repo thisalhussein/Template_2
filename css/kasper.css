@@ -69,6 +69,7 @@ ul {
     height: 2px;
     background-color: #333;
     bottom: -30px;
+    width: ;
 }
 .main-heading h2::after{
     content: "";
