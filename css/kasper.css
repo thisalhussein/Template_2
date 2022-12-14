@@ -202,6 +202,9 @@ header nav .form i {
 
 }
 .landing .bullets li {
+
+}
+.landing .bullets li.active {
     
 }
 /* End Landing */
