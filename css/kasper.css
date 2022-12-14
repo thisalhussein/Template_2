@@ -55,7 +55,7 @@ ul {
     text-align: center;
 }
 .main-heading h2 {
-
+    font-weight: ;
 }
 .main-heading h2::before{
     content: "";
