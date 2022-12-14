@@ -291,6 +291,7 @@ header nav .form i {
 .services .srv-box {
     display: flex;
 }
+@media
 .services .srv-box i {
     margin-right: 50px;
 }
