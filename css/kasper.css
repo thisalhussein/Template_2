@@ -170,7 +170,7 @@ header nav .form i {
     padding: 50px;
     background-color: var(--transparent-color);
     color: white;
-    display: ;
+    display: flex;
 }
 
 /* End Landing */
