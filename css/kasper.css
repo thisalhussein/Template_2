@@ -357,6 +357,9 @@ header nav .form i {
 
 }
 .design .text ul li {
+
+}
+.design .text ul li::before {
     
 }
 /* End Design */
