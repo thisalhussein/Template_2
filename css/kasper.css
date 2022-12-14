@@ -321,6 +321,7 @@ header nav .form i {
     height: 600px;
     position: relative;
     background-image: url(../image/design.jpeg);
+    background-size: cover;
 
 }
 /* End Design */
