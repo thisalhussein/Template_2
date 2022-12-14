@@ -73,6 +73,7 @@ ul {
 }
 .main-heading h2::after{
     content: "";
+    position:
 }
 .main-heading p {
 
