@@ -661,6 +661,6 @@ header nav .form i {
     content: "";
 }
 .our-skills .skills .prog-holder .prog span::after {
-
+    content: "";
 }
 /* End Skills */
