@@ -605,6 +605,9 @@ header nav .form i {
 }
 @media (max-width: 767px) {
     .our-skills .testimonials .content {
+
+    }
+    .our-skills .testimonials .content img {
         
     }
 }
