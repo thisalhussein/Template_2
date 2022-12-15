@@ -704,4 +704,7 @@ header nav .form i {
     height: 100%;
     background-color: rgb(0 0 0 / 75%);
 }
+.quote .container {
+    position: relative;
+}
 /* End Quote */
