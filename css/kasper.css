@@ -471,6 +471,7 @@ header nav .form i {
     padding: 50px;
     background-color: var(--transparent-color);
     color: white;
+    text-align: center;
 }
 .video .text h2 {
 
