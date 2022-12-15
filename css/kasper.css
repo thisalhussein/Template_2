@@ -655,6 +655,9 @@ header nav .form i {
 
 }
 .our-skills .skills .prog-holder .prog span {
+
+}
+.our-skills .skills .prog-holder .prog span::before {
     
 }
 /* End Skills */
