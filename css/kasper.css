@@ -736,9 +736,9 @@ header nav .form i {
 
 }
 .pricing .plans .plan .head span::before {
-    
+    content: "";
 }
 .pricing .plans .plan .head span::after {
-    
+    content: "";
 }
 /* End Pricing */
