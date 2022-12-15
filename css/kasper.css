@@ -638,5 +638,6 @@ header nav .form i {
     width: 14px;
     height: 14px;
     border: 1px solid #aaa;
+    border-radius: 50%;
 }
 /* End Skills */
