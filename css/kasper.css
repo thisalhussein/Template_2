@@ -397,7 +397,7 @@ header nav .form i {
     margin-top: 60px;
 }
 .portfolio .imgs-container .box {
-
+    position: relative;
 }
 @media (min-width: 768px) {
  .portfolio .imgs-container .box {
@@ -413,6 +413,6 @@ header nav .form i {
     max-width: 100%;
 }
 .portfolio .imgs-container .box .caption {
-    
+
 }
 /* End portfolio */
