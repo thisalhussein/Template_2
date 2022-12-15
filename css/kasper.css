@@ -733,6 +733,12 @@ header nav .form i {
 
 }
 .pricing .plans .plan .head span {
+
+}
+.pricing .plans .plan .head span::before {
+    
+}
+.pricing .plans .plan .head span::after {
     
 }
 /* End Pricing */
