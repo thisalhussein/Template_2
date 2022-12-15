@@ -552,12 +552,12 @@ header nav .form i {
     }
 }
 .stats .container .box i {
-
+    width: 40px;
 }
 .stats .container .box .number {
 
 }
 .stats .container .box p {
-    
+
 }
 /* End Stats */
