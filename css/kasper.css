@@ -501,4 +501,7 @@ header nav .form i {
     margin-top: -120px;
     max-width: 100%;
 }
+@media(max-width: 767px){
+    
+}
 /* End About */
