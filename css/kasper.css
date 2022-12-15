@@ -404,6 +404,7 @@ header nav .form i {
     flex-basis: 50%;
  }
 }
+@media (min-width: 1199px)
 .portfolio .imgs-container .box img {
     max-width: 100%;
 }
