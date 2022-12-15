@@ -400,7 +400,9 @@ header nav .form i {
 
 }
 @media (min-width: 768px) {
-
+ .portfolio .imgs-container .box {
+    
+ }
 }
 .portfolio .imgs-container .box img {
     max-width: 100%;
