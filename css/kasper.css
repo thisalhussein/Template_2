@@ -401,6 +401,9 @@ header nav .form i {
     position: relative;
 }
 .portfolio .imgs-container .box:hover .caption {
+
+}
+.portfolio .imgs-container .box:hover img {
     
 }
 @media (min-width: 768px) {
