@@ -541,4 +541,7 @@ header nav .form i {
         flex-basis: 100%;
     }
 }
+@media (min-width: 768px) {
+    
+}
 /* End Stats */
