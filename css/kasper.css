@@ -673,6 +673,7 @@ header nav .form i {
     padding: 4px 0;
     width: 40px;
     text-align: center;
+    border-radius: ;
 }
 .our-skills .skills .prog-holder .prog span::after {
     content: "";
