@@ -691,5 +691,6 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     background-image: url(../image/quote.jpg);
     background-size: cover;
+    position: ;
 }
 /* End Quote */
