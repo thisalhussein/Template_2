@@ -687,6 +687,7 @@ header nav .form i {
 /* End Skills */
 /* Star Quote */
 .quote {
-    padding-top: var(--section-padding)
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
 }
 /* End Quote */
