@@ -682,5 +682,6 @@ header nav .form i {
     border-width: 8px;
     border-color: red green blue brown;
     right: -8px;
+    top: -15px;
 }
 /* End Skills */
