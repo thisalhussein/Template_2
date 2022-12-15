@@ -496,6 +496,6 @@ header nav .form i {
     text-align: center;
 }
 .about img {
-    
+    position: relative;
 }
 /* End About */
