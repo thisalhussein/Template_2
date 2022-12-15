@@ -576,6 +576,9 @@ header nav .form i {
     padding-bottom: var(--section-padding);
 }
 .our-skills .container {
+
+}
+@media (min-width: 992px) {
     
 }
 /* End Skills */
