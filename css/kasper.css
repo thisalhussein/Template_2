@@ -559,7 +559,7 @@ header nav .form i {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    margin: 0;
+    margin: 0 auto ;
 }
 .stats .container .box .number {
 
