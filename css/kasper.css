@@ -748,6 +748,7 @@ header nav .form i {
     position: relative;
     top: -40px;
     margin-right: 15px;
+    font-weight: normal;
 }
 .pricing .plans .plan .head span::after {
     content: "/Mo";
