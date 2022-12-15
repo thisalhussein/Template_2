@@ -629,6 +629,6 @@ header nav .form i {
     margin-bottom: 10px;
 }
 .our-skills .testimonials .bullets {
-    display: ;
+    display: flex;
 }
 /* End Skills */
