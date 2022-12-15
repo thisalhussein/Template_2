@@ -497,5 +497,6 @@ header nav .form i {
 }
 .about img {
     position: relative;
+    bottom: -120px;
 }
 /* End About */
