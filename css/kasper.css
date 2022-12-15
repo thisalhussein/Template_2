@@ -534,5 +534,6 @@ header nav .form i {
 .stats .container .box {
     color: white;
     padding: 50px;
+    background-color: var(--main-color);
 }
 /* End Stats */
