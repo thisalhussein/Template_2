@@ -406,7 +406,7 @@ header nav .form i {
 }
 @media (min-width: 1199px){
     .portfolio .imgs-container .box {
-        
+        flex-basis: 25%;
     }
 }
 .portfolio .imgs-container .box img {
