@@ -502,6 +502,8 @@ header nav .form i {
     max-width: 100%;
 }
 @media(max-width: 767px){
-    
+    .about img {
+        
+    }
 }
 /* End About */
