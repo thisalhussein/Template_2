@@ -387,4 +387,7 @@ header nav .form i {
 .portfolio .shuffle li {
     padding: 10px;
 }
+.portfolio .shuffle li.active {
+    
+}
 /* End portfolio */
