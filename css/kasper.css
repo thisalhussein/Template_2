@@ -697,5 +697,6 @@ header nav .form i {
 }
 .quote::before {
     content: "";
+    position: ;
 }
 /* End Quote */
