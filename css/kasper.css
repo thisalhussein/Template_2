@@ -751,5 +751,6 @@ header nav .form i {
 }
 .pricing .plans .plan .head span::after {
     content: "/Mo";
+    font-size: 20px;
 }
 /* End Pricing */
