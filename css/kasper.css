@@ -518,6 +518,6 @@ header nav .form i {
     position: relative;
 }
 .stats::before {
-    
+    content: "";
 }
 /* End Stats */
