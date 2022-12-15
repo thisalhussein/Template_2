@@ -668,6 +668,7 @@ header nav .form i {
     position: absolute;
     background-color: black;
     color: white;
+    top: -40px;
 }
 .our-skills .skills .prog-holder .prog span::after {
     content: "";
