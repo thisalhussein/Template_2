@@ -404,7 +404,7 @@ header nav .form i {
     bottom: 0;
 }
 .portfolio .imgs-container .box:hover img {
-
+    transform: rotate(3deg) scale(1.1);
 }
 @media (min-width: 768px) {
  .portfolio .imgs-container .box {
