@@ -441,5 +441,6 @@ header nav .form i {
     color: white;
     padding: 15p 20px;
     display: block;
+    width: fit-content;
 }
 /* End portfolio */
