@@ -615,7 +615,7 @@ header nav .form i {
 
     }
     .our-skills .testimonials .content img {
-        margin: 0;
+        margin: 0 auto;
     }
 }
 /* End Skills */
