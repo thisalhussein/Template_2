@@ -747,6 +747,7 @@ header nav .form i {
     font-size: 20px;
     position: relative;
     top: -40px;
+    margin-right: 15px;
 }
 .pricing .plans .plan .head span::after {
     content: "/Mo";
