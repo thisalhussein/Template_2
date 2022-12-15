@@ -695,4 +695,7 @@ header nav .form i {
     text-align: center;
     color: white;
 }
+.quote::before {
+    
+}
 /* End Quote */
