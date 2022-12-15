@@ -603,5 +603,7 @@ header nav .form i {
 .our-skills .testimonials .content img {
 
 }
-@media
+@media (max-width: 767px) {
+    
+}
 /* End Skills */
