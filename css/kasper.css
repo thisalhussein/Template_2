@@ -551,7 +551,10 @@ header nav .form i {
         flex-basis: 25%;
     }
 }
+.stats .container .box i {
+
+}
 .stats .container .box .number {
-    
+
 }
 /* End Stats */
