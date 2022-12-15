@@ -753,5 +753,6 @@ header nav .form i {
     content: "/Mo";
     font-size: 20px;
     position: relative;
+    right: -15px;
 }
 /* End Pricing */
