@@ -564,6 +564,7 @@ header nav .form i {
 .stats .container .box .number {
     font-size: 50px;
     font-weight: bold;
+    margin: 0 0 20px;
 }
 .stats .container .box p {
 
