@@ -773,6 +773,6 @@ header nav .form i {
     bottom: 0;
 }
 .pricing .plans .plan .foot a {
-    
+    display: block;
 }
 /* End Pricing */
