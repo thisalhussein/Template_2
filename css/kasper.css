@@ -831,6 +831,9 @@ header nav .form i {
 
 }
 .subscribe form input[type="email"] {
+
+}
+.subscribe form input[type="submit"] {
     
 }
 /* End Subscribe */
