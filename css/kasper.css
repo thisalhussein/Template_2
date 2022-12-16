@@ -905,7 +905,10 @@ header nav .form i {
     text-transform: uppercase;
     cursor: pointer;
 }
-.contact .content .info [
+.contact .content .info {
+
+}
+.contact .content .info h4 {
     
-]
+}
 /* Start Contact */
