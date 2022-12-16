@@ -759,6 +759,9 @@ header nav .form i {
 
 }
 .pricing .plans .plan ul li {
+
+}
+.pricing .plans .plan ul li:not(:last-child)::after {
     
 }
 /* End Pricing */
