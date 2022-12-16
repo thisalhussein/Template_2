@@ -766,5 +766,6 @@ header nav .form i {
     content: "";
     width: 120px;
     height: 1px;
+    position: absolute;
 }
 /* End Pricing */
