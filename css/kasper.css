@@ -826,6 +826,7 @@ header nav .form i {
 }
 .subscribe form {
     display: flex;
+    position: relative;
     
 }
 .subscribe form i {
