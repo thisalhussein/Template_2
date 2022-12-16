@@ -762,7 +762,7 @@ header nav .form i {
     padding: 20px;
 }
 .pricing .plans .plan ul li:not(:last-child) {
-    
+    position: relative;
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
     content: "";
