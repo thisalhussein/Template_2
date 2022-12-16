@@ -955,5 +955,6 @@ header nav .form i {
     background-image: url(../image/footer.jpg);
     background-size: cover;
     position: relative;
+    color: white;
 }
 /* End Footer */
