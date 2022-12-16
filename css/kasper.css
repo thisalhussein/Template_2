@@ -803,6 +803,7 @@ header nav .form i {
     background-image: url(../image/subscribe.jpg);
     background-size: cover;
     position: relative;
+    color: white;
 }
 .subscribe::before {
 
