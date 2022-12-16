@@ -862,6 +862,7 @@ header nav .form i {
 }
 .subscribe p {
     line-height: 2;
+    margin-left: 50px;
 }
 @media (max-width: 991px) {
     .subscribe p {
