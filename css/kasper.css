@@ -971,6 +971,9 @@ header nav .form i {
     position: relative;
 }
 .footer p:not(.copyright) {
+
+}
+.footer .socal-icons i {
     
 }
 /* End Footer */
