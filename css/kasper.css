@@ -884,5 +884,6 @@ header nav .form i {
 }
 .contact .content form .main-input {
     padding: 20px;
+    display: block;
 }
 /* Start Contact */
