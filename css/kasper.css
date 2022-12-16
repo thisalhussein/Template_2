@@ -761,6 +761,9 @@ header nav .form i {
 .pricing .plans .plan ul li {
     padding: 20px;
 }
+.pricing .plans .plan ul li:not(:last-child) {
+    
+}
 .pricing .plans .plan ul li:not(:last-child)::after {
     content: "";
 }
