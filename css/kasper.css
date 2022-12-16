@@ -959,6 +959,6 @@ header nav .form i {
     text-align: center;
 }
 .footer::before {
-    
+    content: "";
 }
 /* End Footer */
