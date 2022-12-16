@@ -825,6 +825,7 @@ header nav .form i {
     }
 }
 .subscribe form {
+    display: flex;
     
 }
 .subscribe form i {
@@ -834,6 +835,6 @@ header nav .form i {
 
 }
 .subscribe form input[type="submit"] {
-    
+
 }
 /* End Subscribe */
