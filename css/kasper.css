@@ -970,6 +970,9 @@ header nav .form i {
 .footer .container {
     position: relative;
 }
+.footer img {
+    
+}
 .footer p:not(.copyright) {
 
 }
@@ -980,6 +983,6 @@ header nav .form i {
 
 }
 .footer .copyright span {
-    
+
 }
 /* End Footer */
