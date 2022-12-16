@@ -861,11 +861,11 @@ header nav .form i {
     color: white;
 }
 .subscribe p {
-
+    line-height: 2;
 }
 @media (max-width: 991px) {
     .subscribe p {
-        
+
     }
 }
 /* End Subscribe */
