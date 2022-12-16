@@ -970,4 +970,7 @@ header nav .form i {
 .footer .container {
     position: relative;
 }
+.footer p:not(.copyright) {
+    
+}
 /* End Footer */
