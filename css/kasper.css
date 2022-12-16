@@ -802,6 +802,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     background-image: url(../image/subscribe.jpg);
     background-size: cover;
+    position: relative;
 }
 .subscribe::before {
 
