@@ -765,5 +765,6 @@ header nav .form i {
 .pricing .plans .plan ul li:not(:last-child)::after {
     content: "";
     width: 120px;
+    height: 1px;
 }
 /* End Pricing */
