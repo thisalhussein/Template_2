@@ -915,7 +915,7 @@ header nav .form i {
 }
 @media (max-width: 767px){
     .contact .content .info {
-        
+        order: -1;
     }
 }
 .contact .content .info h4 {
