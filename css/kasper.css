@@ -844,5 +844,6 @@ header nav .form i {
     width: 130px;
     background-color: var(--main-color);
     color: white;
+    padding: 10px 20px;
 }
 /* End Subscribe */
