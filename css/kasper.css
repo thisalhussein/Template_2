@@ -835,6 +835,7 @@ header nav .form i {
 }
 .subscribe form input[type="email"] {
     border: 1px solid white;
+    background: none;
 }
 .subscribe form input[type="submit"] {
 
