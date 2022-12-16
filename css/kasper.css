@@ -850,4 +850,7 @@ header nav .form i {
     border-left: none;
     text-transform: uppercase;
 }
+.subscribe form ::placeholder {
+    
+}
 /* End Subscribe */
