@@ -781,9 +781,9 @@ header nav .form i {
     margin: 30px auto;
 }
 .pricing .contact-text {
-
+    text-align: center;
 }
 .pricing .contact-link {
-    
+
 }
 /* End Pricing */
