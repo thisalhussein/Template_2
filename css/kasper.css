@@ -914,8 +914,8 @@ header nav .form i {
     flex-basis: 25%;
 }
 @media (max-width: 767px){
-    .contact .content {
-        flex-direction: column;
+    .contact .content .info {
+        
     }
 }
 .contact .content .info h4 {
