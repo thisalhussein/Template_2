@@ -897,5 +897,6 @@ header nav .form i {
 }
 .contact .content form input[type="submit"] {
     background-color: var(--main-color);
+    color: white;
 }
 /* Start Contact */
