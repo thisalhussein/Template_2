@@ -851,6 +851,6 @@ header nav .form i {
     text-transform: uppercase;
 }
 .subscribe form ::placeholder {
-    
+    color: white;
 }
 /* End Subscribe */
