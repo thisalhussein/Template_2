@@ -950,6 +950,6 @@ header nav .form i {
 /* Start Contact */
 /* Start Footer */
 .footer {
-    
+    padding-top: calc(var(--section-padding) / 2);
 }
 /* End Footer */
