@@ -954,5 +954,6 @@ header nav .form i {
     padding-bottom: calc(var(--section-padding) / 2);
     background-image: url(../image/footer.jpg);
     background-size: cover;
+    position: relative;
 }
 /* End Footer */
