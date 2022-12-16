@@ -800,6 +800,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
+    background-image: url(../image/subscribe.jpg);
 }
 .subscribe::before {
 
