@@ -798,6 +798,9 @@ header nav .form i {
 /* End Pricing */
 /* Start Subscribe */
 .subscribe {
+
+}
+.subscribe::before {
     
 }
 /* End Subscribe */
