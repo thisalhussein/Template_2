@@ -861,6 +861,9 @@ header nav .form i {
     color: white;
 }
 .subscribe p {
+
+}
+@media (max-width: 991px) {
     
 }
 /* End Subscribe */
